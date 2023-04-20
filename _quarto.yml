@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "sandbox-notebook-rendering"
+  title: "Sandbox Notebook Rendering"
   author: "Simon Worthington"
   date: "20/04/2023"
   chapters:
