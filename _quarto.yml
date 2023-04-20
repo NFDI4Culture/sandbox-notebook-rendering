@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "sandbox-notebook-rendering"
+  author: "Simon Worthington"
+  date: "20/04/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
