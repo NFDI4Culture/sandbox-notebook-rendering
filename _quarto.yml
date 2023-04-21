@@ -11,7 +11,10 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
-
+repo-url: https://github.com/NFDI4Culture/sandbox-notebook-rendering
+repo-actions: [edit]
+downloads: [pdf,epub,docx,icml]
+cover-image: cover/Hybrid_European_RF_and_Antenna_Test_Zone_sml.jpg
 bibliography: references.bib
 
 format:
