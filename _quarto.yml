@@ -10,6 +10,8 @@ book:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - paintings.ipynb
+    - collection-sprengel.ipynb
     - references.qmd
 repo-url: https://github.com/NFDI4Culture/sandbox-notebook-rendering
 repo-actions: [edit]
@@ -35,7 +37,7 @@ format:
     toc: true
 
 
-    
+
 
 
 
