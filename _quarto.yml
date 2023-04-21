@@ -1,10 +1,12 @@
 project:
   type: book
+  output-dir: docs
+
 
 book:
   title: "Sandbox Notebook Rendering"
   author: "Simon Worthington"
-  date: "20/04/2023"
+  date: "2023-04-14"
   chapters:
     - index.qmd
     - intro.qmd
@@ -14,10 +16,28 @@ book:
 bibliography: references.bib
 
 format:
+  # options for HTML output
+  # https://quarto.org/docs/reference/formats/html.html
   html:
-    theme: cosmo
+    number-sections: false
+    # Quarto allows a number of pre-packaged themes for the HTML version
+    # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
+    theme: darkly
+  # options for PDF output 
+  # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
-    documentclass: scrreprt
+    documentclass: book
+  docx:   
+    toc: true
+  epub:   
+    toc: true
+  jats: 
+    author: Simon Worthington 
+  icml: 
+    toc: true
+  ipynb: 
+    toc: true  
+
 
 
 
