@@ -11,7 +11,10 @@ book:
     - intro.qmd
     - summary.qmd
     - paintings.ipynb
+    - collection-template.ipynb
     - collection-sprengel.ipynb
+    - collection-ahmad.ipynb
+    - collection-albaloush.ipynb
     - references.qmd
 repo-url: https://github.com/NFDI4Culture/sandbox-notebook-rendering
 repo-actions: [edit]
