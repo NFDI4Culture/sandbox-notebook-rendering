@@ -21,6 +21,20 @@
     "text": "In summary, this book has no content whatsoever."
   },
   {
+    "objectID": "paintings.html",
+    "href": "paintings.html",
+    "title": "Activity: Paintings catalogue in Jupyter Notebook",
+    "section": "",
+    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q25569472\nTitle: Judith\nYear: 1625\nCreator: Simon Vouet\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q27316110\nTitle: Zeil- en roeiboten in een riviermonding\nYear: 1640\nCreator: Jan van Goyen\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q27919851\nTitle: The Gallery of Archduke Leopold in Brussels (I)\nYear: 1651\nCreator: David Teniers the Younger\nCopyright: public domain"
+  },
+  {
+    "objectID": "collection-sprengel.html",
+    "href": "collection-sprengel.html",
+    "title": "Sample Collection Sprengel Museum",
+    "section": "",
+    "text": "Paintings from the Sprengel Museum, Hannover. https://www.wikidata.org/wiki/Q510144\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q934482\nTitle: The Street Enters the House\nYear: 1911\nCreator: Umberto Boccioni\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q18890767\nTitle: Seated Nude\nYear: 1902\nCreator: Edvard Munch\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q18890869\nTitle: Small Town Street in Snow\nYear: 1906\nCreator: Edvard Munch\nCopyright: public domain"
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
