@@ -13,7 +13,7 @@ book:
     - references.qmd
 repo-url: https://github.com/NFDI4Culture/sandbox-notebook-rendering
 repo-actions: [edit]
-downloads: [pdf,epub,docx,icml]
+downloads: [pdf,epub,docx]
 cover-image: cover/Hybrid_European_RF_and_Antenna_Test_Zone_sml.jpg
 bibliography: references.bib
 
@@ -33,12 +33,9 @@ format:
     toc: true
   epub:   
     toc: true
-  jats: 
-    author: Simon Worthington 
-  icml: 
-    toc: true
-  ipynb: 
-    toc: true  
+
+
+    
 
 
 
