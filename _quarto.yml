@@ -11,10 +11,17 @@ book:
     - intro.qmd
     - summary.qmd
     - paintings.ipynb
-    - collection-template.ipynb
-    - collection-sprengel.ipynb
-    - collection-ahmad.ipynb
-    - collection-albaloush.ipynb
+    - collection_1_template.ipynb
+    - collection_1_sprengel.ipynb
+    - collection_1_ahmad.ipynb
+    - collection_1_albaloush.ipynb
+    - collection_1_aroud.ipynb
+    - collection_1_cornelius.ipynb
+    - collection_1_darkhabani.ipynb
+    - collection_1_debase.ipynb
+    - collection_1_kromm.ipynb
+    - collection_1_sommer.ipynb
+    - collection_1_tuku.ipynb
     - references.qmd
 repo-url: https://github.com/NFDI4Culture/sandbox-notebook-rendering
 repo-actions: [edit]
@@ -29,7 +36,7 @@ format:
     number-sections: false
     # Quarto allows a number of pre-packaged themes for the HTML version
     # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
-    theme: darkly
+    theme: journal
   # options for PDF output 
   # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
